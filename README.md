@@ -5,7 +5,7 @@
 
  Skilled and motivated web developer with  experience in designing and developing visually appealing, user-friendly websites. Seeking a challenging position in a dynamic organization where I can utilize my technical expertise and creativity to deliver exceptional web solutions
 
-Skills:   REACT /NODE JS / JAVASCRIPT/HTML / CSS/TAILWIND
+Skills:   REACT/NEXT JS /NODE JS / EXPRESS/MONGODB/ JAVASCRIPT/HTML / CSS/TAILWIND
 
 - 🔭 Contact Me
 
